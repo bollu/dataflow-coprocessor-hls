@@ -86,3 +86,7 @@
 !*.elf
 !*.bmm
 !*.xmp
+##########
+#markdown files
+###########
+!*.md
